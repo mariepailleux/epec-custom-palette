@@ -1,7 +1,27 @@
-p{
-    background-color: brown!important;
+.has-white-color {
+    color: #ffffff;
 }
-
-h3{
-    color: crimson!important;
-}
+.has-very-dark-gray-color{
+    color: #111111
+ !important;
+ }.has-brand-color-2-color{
+    color:#E94B59
+ !important;
+ }.has-brand-color-1-color{
+ color:#6128A1
+ !important;
+ }.has-brand-color-2-background-color{
+ background-color: #E94B59
+ !important;
+ }.has-brand-color-1-background-color{
+ background-color: #6128A1
+ !important;
+ }.has-very-dark-gray-background-color{
+    background-color: #111111
+ !important;
+ }
+ s
+ .has-white-background-color{
+    background-color: #FFFFFF
+ !important;
+ }

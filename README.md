@@ -1,5 +1,10 @@
 # epec-custom-palette
 This application is a wordpress plugins.
-Its a custom palette.
+
+It is a custom palette.
+
+## Installation
 Install the custome palette on extensions and active this application.
-Change the color on custom palette and personalise.
+
+## Personalisation
+Change the color codes on custom palette on style.css and epec-custom-palette.php.
